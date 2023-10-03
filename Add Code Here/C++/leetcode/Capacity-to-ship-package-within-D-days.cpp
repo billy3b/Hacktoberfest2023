@@ -1,3 +1,7 @@
+#include<bits/stdc++.h>
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
 	bool isPossible(vector<int>& weights, int mid, int days){
